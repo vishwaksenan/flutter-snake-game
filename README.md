@@ -1,6 +1,6 @@
 # Flutter Snake Game
 
-A 2d Flutter snake Game
+A 2d Flutter snake . You can download the Android APK from [here](https://drive.google.com/file/d/1J63TAw53HpUNomfc_L623l9SqkJtjbT7/view).
 
 ## Getting Started
 Install flutter in your computer by visiting this [website](https://docs.flutter.dev/get-started/install). 
