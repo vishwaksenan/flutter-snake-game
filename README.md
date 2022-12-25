@@ -15,4 +15,6 @@ $ flutter run
 ```
 
 ## Results
-The screenshot of the game
+The screenshot of the game.   
+![HomePage](/assets/homepage.png).   
+![Game](/assets/game.png).   
